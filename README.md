@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Aitzaz
 
 I'm a Computer Science student in Islamabad, Pakistan,
 building my foundations in programming and working toward
